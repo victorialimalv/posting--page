@@ -1,0 +1,50 @@
+<style>
+    /* Estilos simples para melhorar a aparência */
+    * {
+        box-sizing: border-box;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: white;
+    }
+    h1 {
+        color: #6D5ACF;
+        text-align: center;
+    }
+    label {
+        color: #6D5ACF;
+        font-size: 20px;
+    
+    }
+    #titulo {
+        color: white;
+        font-size: 15px;
+    }
+    #conteudo {
+        color: white;
+        font-size: 15px;
+    }
+    input[type="text"], textarea {
+      width: 100%;
+      margin-bottom: 10px;
+      padding: 8px;
+      border-radius: 5px;
+      border: 1px solid #FFFD01;
+      background-color: #6D5ACF;
+      
+    }
+    button {
+      background-color: #FFFD01;
+      padding: 10px 20px;;
+      font-size: 15px;
+      color: #6D5ACF;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      
+    }
+    button:hover {
+      background-color: #9DBCD4;
+    }
+  </style>
