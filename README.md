@@ -12,11 +12,12 @@ Ele utiliza HTML, CSS e JavaScript para criar uma interface de usuário básica 
 
 <b>Criar Postagem:</b> Permite ao usuário inserir um título e um conteúdo para criar uma postagem simulada.
 <br>
-<b>Comunicação com API:</b> Simula uma requisição POST para uma API, utilizando o serviço de testes JSONPlaceholder.
+<b>Comunicação com API:</b> Simula uma requisição POST para uma API, utilizando o serviço de testes.
 
 
 <p align="center">
-<im width="450" src="imagem2.png">
+<img width="450" src="imagem2.png">
+  <img width="450" src="imagem3.png">
 </p>
 
 
